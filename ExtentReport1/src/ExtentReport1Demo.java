@@ -9,6 +9,9 @@ import com.relevantcodes.extentreports.LogStatus;
 public class ExtentReport1Demo {
 	static ExtentReports  reports; 
 	static ExtentTest logger ;
+	/* 
+	 * this code i have shared with you over GIThub
+	 */
 	
 	public static void main(String[] args) {
 		
